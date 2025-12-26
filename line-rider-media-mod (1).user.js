@@ -3,7 +3,7 @@
 // @namespace    https://www.linerider.com/
 // @version      1.0.0
 // @description  Add GIFs and videos as overlays inside Line Rider
-// @author       You
+// @author       Hugolines
 // @match        https://www.linerider.com/*
 // @icon         https://www.linerider.com/favicon.ico
 // @grant        none
