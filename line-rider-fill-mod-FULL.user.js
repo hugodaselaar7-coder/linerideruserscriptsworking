@@ -3,7 +3,7 @@
 // @namespace    https://www.linerider.com/
 // @version      1.0.0
 // @description  Fill selected shapes with adjustable angle and spacing
-// @author       You
+// @author       Hugolines
 // @match        https://www.linerider.com/*
 // @icon         https://www.linerider.com/favicon.ico
 // @grant        none
